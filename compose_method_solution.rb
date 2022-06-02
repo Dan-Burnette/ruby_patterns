@@ -16,7 +16,6 @@ class MakePizza
     build_pizza_base
     add_cheese
     add_toppings
-    bake_pizza
 
     @pizza
   end
